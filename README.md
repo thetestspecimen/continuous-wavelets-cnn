@@ -55,3 +55,4 @@ Essentially, each individial user (1 to 8) will be used as the hold out test set
 
 This will give a good indication as to how the models perform for each individual, ultimately giving a better indication as to how the model will likely perform with a completely new user in the future.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7G2C89)
